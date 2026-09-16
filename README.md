@@ -1,149 +1,139 @@
-````markdown
-# 👨‍💻 Sayed Ikhtiaz Ahmed
+# 👋 Hi, I'm Sayed Ikhtiaz Ahmed
 
-```text
-$ whoami
+### Frontend Developer | WordPress Developer
 
-SayedIkhtiazAhmed
+I’m a frontend-focused web developer interested in building responsive, user-friendly, and interactive websites.
 
-$ status
+I work with HTML, CSS, Bootstrap, JavaScript, jQuery, and WordPress, with a strong focus on responsive layouts and practical UI development.
 
-Learning → Building → Breaking → Debugging → Improving
-````
-
-### `> Developer in progress...`
-
-I'm learning how to turn ideas into software.
-
-I enjoy understanding **how things work**, building projects from scratch,
-breaking them, fixing them, and learning something new from every bug.
-
-```python
-while not_done:
-    learn()
-    build()
-    fail()
-    debug()
-    improve()
-```
+Alongside web development, I also work with Microsoft Excel for data cleaning, analysis, dashboards, and business reporting.
 
 ---
 
-## 🧠 Currently Learning
+## What I Do
 
-```text
-├── Programming
-├── Problem Solving
-├── Software Development
-├── Web Development
-└── Git & GitHub
-```
-
-I'm currently focused on building a strong foundation rather than
-rushing through technologies.
+-  Responsive Frontend Development
+-  Custom UI & Responsive Web Design
+-  Mobile, Tablet & Desktop Optimization
+-  Interactive Frontend Experiences
+-  WordPress Website Development
+-  Excel Data Cleaning & Analysis
+-  Excel Dashboard & Business Reporting
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-```text
-Languages
-├── Python
-├── C / C++
-└── JavaScript
+### Frontend Development
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-> This list grows as I learn and build.
+### CMS
 
----
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-## 🚧 Projects
+### Data & Analytics
 
-Most of my journey is happening through projects.
-
-I believe:
-
-> **The best way to learn programming is to build something that can break.**
-
-More projects coming soon. 🚀
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🎯 Current Mission
+## 🚀 Featured Projects
 
-```text
-[████████████░░░░░░░░] Becoming a better developer
-```
+### 01. Responsive Frontend Website | Custom Media CSS
 
-My goal isn't just to learn syntax.
+A responsive and interactive frontend website built with HTML5, CSS3, Bootstrap, JavaScript, and jQuery.
 
-It's to learn how to:
+The project focuses on combining Bootstrap's responsive grid system with custom CSS Media Queries to achieve better control across desktop, tablet, and mobile layouts.
 
-* Think logically
-* Solve problems
-* Write cleaner code
-* Build useful software
-* Understand what happens under the hood
-* Keep learning
+**Highlights:**
+- Custom CSS Media Queries
+- Bootstrap responsive grid
+- Responsive navigation
+- Custom animated navigation toggle
+- CSS animations
+- Interactive hover effects
+- Testimonial carousel
+- JavaScript & jQuery functionality
+- Google Maps integration
 
----
+🔗 **Live Website:**  
+<a href="https://sayedikhtiazahmed.github.io/Responsive-Frontend-Website-Media-CSS/">View Live Website</a>
 
-## 💭 Developer Philosophy
-
-```text
-Code is not about knowing everything.
-
-It's about knowing how to figure things out.
-```
+🔗 **GitHub Repository:**  
+<a href="https://github.com/SayedIkhtiazAhmed/Responsive-Frontend-Website-Media-CSS">View Repository</a>
 
 ---
 
-## 📊 GitHub
+### 02. Inventory Performance & Stock Analytics Dashboard
 
-```text
-Repositories  → Building
-Skills        → Growing
-Experience    → Loading...
-Bugs          → Unlimited
-```
+An interactive Microsoft Excel dashboard created to analyze inventory levels, stock movement, product performance, inventory value, and inventory turnover.
 
----
+**Highlights:**
+- Current stock analysis
+- Inventory value by category
+- Stock status monitoring
+- Fast-moving products
+- Slow-moving products
+- Inventory turnover
+- Interactive category filtering
+- KPI-based dashboard
 
-## 🤝 Connect
+**Excel Features Used:**
+`XLOOKUP` • `SUMIF` • `IF` • `AVERAGE` • Excel Tables • Pivot Tables • Pivot Charts • Slicers • Conditional Formatting
 
-If you're interested in coding, open source, or building things,
-feel free to explore my repositories.
-
-### `SayedIkhtiazAhmed`
-
-```bash
-$ git clone my-journey
-$ cd my-journey
-$ keep_learning
-```
+🔗 **GitHub Repository:**  
+<a href="https://github.com/SayedIkhtiazAhmed/Inventory-Performance-Stock-Analytics-Dashboard-2nd-Excel-Project">View Repository</a>
 
 ---
 
-⭐ Thanks for visiting my profile.
+## 📚 Currently Learning
 
-````
+I’m continuously improving my development skills and gradually moving toward backend development and automation.
 
-### One thing I'd specifically recommend
+**Current learning path:**
 
-Don't put fake **GitHub statistics, contribution graphs, visitor counters, or dozens of badges** on your profile yet. Once you have several real projects, we can add those and make the README much more impressive.
+`JavaScript` → `APIs` → `Node.js` → `Automation` → `AI Integration`
 
-And I particularly like this part for your profile:
+My goal is to build practical web solutions that go beyond static websites and help businesses improve their digital workflows.
 
-```python
-while not_done:
-    learn()
-    build()
-    fail()
-    debug()
-    improve()
-````
+---
+
+## 🎯 Areas of Interest
+
+- Frontend Development
+- Responsive Web Design
+- WordPress Development
+- Web UI & UX
+- JavaScript
+- APIs & Backend Development
+- Business Automation
+- Excel Data Analytics
+- Dashboard Development
+- AI-powered Web Solutions
+
+---
+
+## 🤝 Let's Connect
+
+I’m open to connecting with developers, designers, businesses, and professionals interested in web development, WordPress, data analytics, and digital solutions.
+
+### 🌐 Profiles
+
+**GitHub:**  <a href="https://github.com/SayedIkhtiazAhmed">Sayed Ikhtiaz Ahmed</a>
+
+**LinkedIn:**  <a href="www.linkedin.com/in/sayed-ikhtiaz-2024s">Sayed Ikhtiaz Ahmed</a>
+
+**Fiverr:**  <a href="https://www.fiverr.com/s/L3dKX47">Sayed Ikhtiaz Ahmed</a>
+
+**Contra:**  <a href="https://contra.com/sayed_ikhtiaz_8efog3js?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=sayed_ikhtiaz_8efog3js">Sayed Ikhtiaz Ahmed</a>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
