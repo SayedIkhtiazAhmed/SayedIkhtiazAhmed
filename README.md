@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sayed Ikhtiaz Ahmed
+# Hi, I'm Sayed Ikhtiaz Ahmed
 
 ### Frontend Developer | WordPress Developer
 
@@ -16,7 +16,9 @@ Alongside web development, I also work with Microsoft Excel for data cleaning, a
 -  Custom UI & Responsive Web Design
 -  Mobile, Tablet & Desktop Optimization
 -  Interactive Frontend Experiences
--  WordPress Website Development
+-  WordPress & Elementor Pro Development
+-  Landing Page Development
+-  WooCommerce Website Development
 -  Excel Data Cleaning & Analysis
 -  Excel Dashboard & Business Reporting
 
@@ -32,9 +34,11 @@ Alongside web development, I also work with Microsoft Excel for data cleaning, a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-### CMS
+### CMS & Website Builders
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
 ### Data & Analytics
 
@@ -42,7 +46,7 @@ Alongside web development, I also work with Microsoft Excel for data cleaning, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 01. Responsive Frontend Website | Custom Media CSS
 
@@ -62,10 +66,10 @@ The project focuses on combining Bootstrap's responsive grid system with custom 
 - Google Maps integration
 
 🔗 **Live Website:**  
-<a href="https://sayedikhtiazahmed.github.io/Responsive-Frontend-Website-Media-CSS/">View Live Website</a>
+ <a href="https://sayedikhtiazahmed.github.io/Responsive-Frontend-Website-Media-CSS/">View Live Website</a>
 
 🔗 **GitHub Repository:**  
-<a href="https://github.com/SayedIkhtiazAhmed/Responsive-Frontend-Website-Media-CSS">View Repository</a>
+ <a href="https://github.com/SayedIkhtiazAhmed/Responsive-Frontend-Website-Media-CSS">View Repository</a>
 
 ---
 
@@ -87,7 +91,7 @@ An interactive Microsoft Excel dashboard created to analyze inventory levels, st
 `XLOOKUP` • `SUMIF` • `IF` • `AVERAGE` • Excel Tables • Pivot Tables • Pivot Charts • Slicers • Conditional Formatting
 
 🔗 **GitHub Repository:**  
-<a href="https://github.com/SayedIkhtiazAhmed/Inventory-Performance-Stock-Analytics-Dashboard-2nd-Excel-Project">View Repository</a>
+ <a href="https://github.com/SayedIkhtiazAhmed/Inventory-Performance-Stock-Analytics-Dashboard-2nd-Excel-Project">View Repository</a>
 
 ---
 
@@ -126,7 +130,7 @@ I’m open to connecting with developers, designers, businesses, and professiona
 
 **GitHub:**  <a href="https://github.com/SayedIkhtiazAhmed">Sayed Ikhtiaz Ahmed</a>
 
-**LinkedIn:**  <a href="www.linkedin.com/in/sayed-ikhtiaz-2024s">Sayed Ikhtiaz Ahmed</a>
+**LinkedIn:**  <a href="https://www.linkedin.com/in/sayed-ikhtiaz-2024s">Sayed Ikhtiaz Ahmed</a>
 
 **Fiverr:**  <a href="https://www.fiverr.com/s/L3dKX47">Sayed Ikhtiaz Ahmed</a>
 
